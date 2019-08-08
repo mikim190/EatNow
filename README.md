@@ -1,6 +1,4 @@
-# Restaurant Info Module
 
-> Recreating the restaurant info module from the item page on Zagat.com.
 
 ## Related Projects
 
